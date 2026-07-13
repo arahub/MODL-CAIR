@@ -55,7 +55,7 @@ SCALE = 0.75
 CONFIDENCE_THRESHOLD = 0.2
 ```
 
-Run the "modl_cair.py" script:
+Run the `modl_cair.py` script:
 
 ```bash
 python modl_cair.py
