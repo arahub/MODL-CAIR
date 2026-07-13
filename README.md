@@ -1,10 +1,10 @@
 # MODL-CAIR
 
+## A Multi-Operator Deep-Learning Approach to Preserve Visual Integrity in Content-Aware Image Retargeting Task
+
 ## Overview
 
-This repository provides the inference implementation of the **Multi-Operator Deep-Learning Approach (MODL-CAIR)** for preserving visual integrity in content-aware image retargeting.
-
-The implementation reproduces the proposed image retargeting method described in our manuscript.
+The is the implementation MODL-CAIR that reproduces the proposed image retargeting method described in our manuscript.
 
 **Manuscript:** https://publication.com/ *(To be updated after publication)*
 
