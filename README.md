@@ -2,7 +2,7 @@
 
 ## Overview
 
-## A Multi-Operator Deep-Learning Approach to Preserve Visual Integrity in Content-Aware Image Retargeting Task
+*A Multi-Operator Deep-Learning Approach to Preserve Visual Integrity in Content-Aware Image Retargeting Task*
 
 The is the implementation MODL-CAIR that reproduces the proposed image retargeting method described in our manuscript.
 
