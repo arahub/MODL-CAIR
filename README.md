@@ -2,7 +2,7 @@
 
 ## Overview
 
-The is the implementation MODL-CAIR that reproduces the proposed image retargeting method described in our manuscript.
+The is the implementation of MODL-CAIR that reproduces the proposed image retargeting method described in our manuscript.
 
 **Manuscript:** https://publication.com/ *(To be updated after publication)*
 
