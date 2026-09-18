@@ -70,5 +70,5 @@ The retargeted image will be saved to the location specified by `OUTPUT_PATH`.
 If you use this source code in your research, please cite the corresponding publication.
 
 ```
-Ghazvini, A., Hipiny, I., Ujir, H. Johari, A. A multi-operator deep-learning approach to preserve visual integrity in content-aware image retargeting task. Sci Rep (2026). https://doi.org/10.1038/s41598-026-72081-1
+Ghazvini, A., Hipiny, I., Ujir, H., Johari, A. A multi-operator deep-learning approach to preserve visual integrity in content-aware image retargeting task. Sci Rep (2026). https://doi.org/10.1038/s41598-026-72081-1
 ```
